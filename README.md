@@ -1,1 +1,1 @@
-# Machine-learning-model-that-multiplies-numbers
+# Machine Learning Model That Multiplies Numbers
